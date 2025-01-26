@@ -32,7 +32,6 @@ class StorageUtil
 	public static function getExternalDirectory(externalDir:String):String
 	{
 	}
-	#end
 }
 
 @:runtimeValue
